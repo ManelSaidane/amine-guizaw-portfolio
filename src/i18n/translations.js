@@ -354,7 +354,7 @@ const translations = {
       phone: "PHONE",
       email: "EMAIL",
       location: "LOCATION",
-      locationValue: "Gafsa, Tunisia",
+      locationValue: "Tozeur",
       whatsapp: "Contact via WhatsApp",
       message:
         "Hello Amine, I would like to know more about your coaching services."
@@ -726,7 +726,7 @@ const translations = {
       phone: "TÉLÉPHONE",
       email: "EMAIL",
       location: "LOCALISATION",
-      locationValue: "Gafsa, Tunisie",
+      locationValue: "Tozeur, Tunisie",
       whatsapp: "Contacter via WhatsApp",
       message:
         "Bonjour Amine, je souhaite avoir plus d'informations sur vos services de coaching."
@@ -1080,7 +1080,7 @@ const translations = {
       phone: "الهاتف",
       email: "البريد الإلكتروني",
       location: "الموقع",
-      locationValue: "قفصة، تونس",
+      locationValue: "توزر، تونس",
       whatsapp: "تواصل عبر واتساب",
       message: "مرحباً أمين، أود معرفة المزيد عن خدمات التدريب التي تقدمها."
     },
